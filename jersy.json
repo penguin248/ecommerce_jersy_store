@@ -1,0 +1,115 @@
+{
+    "items":[
+        {
+            "sys": {"id": "1"},
+            "fields": {
+                "title": "Chelsea Home Jersey",
+                "price": 1200,
+                "image": {"fields": {"file": {"url": "Images/chelsea1.jpeg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "2"},
+            "fields": {
+                "title": "Arsenal Home Jersey",
+                "price": 1199,
+                "image": {"fields": {"file": {"url": "Images/arsenal1.jpeg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "3"},
+            "fields": {
+                "title": "Benfica Away Jersey",
+                "price": 1400,
+                "image": {"fields": {"file": {"url": "Images/Benfica1.jpeg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "4"},
+            "fields": {
+                "title": "Manchester United Home Jersey",
+                "price": 1300,
+                "image": {"fields": {"file": {"url": "Images/manu1.jpeg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "5"},
+            "fields": {
+                "title": "Manchester City Home Jersey",
+                "price": 1200,
+                "image": {"fields": {"file": {"url": "Images/manc1.jpeg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "6"},
+            "fields": {
+                "title": "Tottenham Home Jersey",
+                "price": 1100,
+                "image": {"fields": {"file": {"url": "Images/tot1.jpeg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "7"},
+            "fields": {
+                "title": "Barcelona Home Jersey",
+                "price": 1400,
+                "image": {"fields": {"file": {"url": "Images/Barcelona1.jpeg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "8"},
+            "fields": {
+                "title": "PSG Home Jersey",
+                "price": 1300,
+                "image": {"fields": {"file": {"url": "Images/PSG1.jpeg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "9"},
+            "fields": {
+                "title": "Real Madrid Home Jersey",
+                "price": 1300,
+                "image": {"fields": {"file": {"url": "Images/Real1.jpeg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "10"},
+            "fields": {
+                "title": "Juventus Home Jersey",
+                "price": 1200,
+                "image": {"fields": {"file": {"url": "Images/Juve1.jpeg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "11"},
+            "fields": {
+                "title": "Inter Milan Home Jersey",
+                "price": 1100,
+                "image": {"fields": {"file": {"url": "Images/Inter1.jpeg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "12"},
+            "fields": {
+                "title": "Brighton Home Jersey",
+                "price": 1000,
+                "image": {"fields": {"file": {"url": "Images/b1.jpeg"}}}
+            }
+        }
+
+
+
+
+    ]
+}
