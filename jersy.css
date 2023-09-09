@@ -34,7 +34,7 @@ ul{
 }
 
 .logo-text{
-    font-size: 2.5em;
+    font-size: 1.5em;
 
 }
 
@@ -108,7 +108,45 @@ ul{
 }
 
 .section1{
-    height: calc(100vh-10vh);
+    height: calc(100vh - 10vh);
     width: 100%;
-    background: url();
+    background: url("Images/2.jpg")center center/cover;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.section1 .banner{
+    height: 170px;
+    width: 600px;
+    background: gainsboro;
+    position: relative;
+    top: 35%;
+    left: 25%;
+    transform: translate((-50%, -50%));
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-family: sans-serif;
+    z-index: 8;
+}
+
+.banner h1{
+    font-size: 2em;
+}
+
+.banner a{
+    display: flex;
+    justify-content: center;
+    padding: 1em 2.5em;
+    font-size: 0.8em;
+    color: white;
+    background: rgb(79, 46, 2);
+    transition: all 0.3s;
+}
+
+.banner a:hover{
+    background: rgb(150, 148, 144);
 }
